@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "ts-node": "^8.4.1",
     "typescript": "^3.6.3"
   },
